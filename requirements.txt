@@ -2,8 +2,9 @@ numpy
 pandas
 matplotlib
 seaborn
-
+statsmodels
 scipy
+kmodes
 
 sentence-transformers
 
