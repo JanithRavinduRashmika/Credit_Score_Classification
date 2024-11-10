@@ -5,6 +5,7 @@ seaborn
 statsmodels
 scipy
 kmodes
+sklearn
 
 sentence-transformers
 
